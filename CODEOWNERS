@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Salo-26
+/src/backend/database.py      @Salo-26
+/src/backend/routers/auth.py  @Salo-26
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Salo-26
